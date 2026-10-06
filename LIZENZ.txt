@@ -1,0 +1,103 @@
+﻿Magic Camelot Companion
+Nutzungsbedingungen (Freeware-Lizenz) · Terms of use (freeware licence)
+© 2026 Magic Camelot Studios. Alle Rechte vorbehalten. All rights reserved.
+
+=====================================================================
+DEUTSCH
+=====================================================================
+
+1. Kostenlose Nutzung
+   Du darfst den Magic Camelot Companion kostenlos nutzen, privat und
+   beruflich, auf so vielen Computern, wie du möchtest.
+
+2. Weitergabe erlaubt – unverändert und kostenlos
+   Du darfst das Installationsprogramm an andere weitergeben, zum Beispiel
+   per USB-Stick, E-Mail oder auf einer eigenen Download-Seite. Es muss
+   dabei unverändert bleiben, und du darfst kein Geld dafür verlangen.
+   Am sichersten ist es, auf die offizielle Seite zu verlinken:
+   https://www.magic-camelot.com/companion/
+
+3. Nicht erlaubt
+   - das Programm oder Teile davon zu verändern, zu zerlegen oder
+     nachzubauen, soweit das Gesetz es nicht ausdrücklich erlaubt,
+   - das Programm zu verkaufen, zu vermieten oder in kostenpflichtige
+     Pakete aufzunehmen,
+   - Teile herauszunehmen und anders zu verwenden, insbesondere Grafiken,
+     Figuren, Texte, Musik und Code,
+   - das Programm unter einem anderen Namen oder als eigenes Werk
+     weiterzugeben.
+
+4. Bestandteile anderer Urheber
+   Der Companion enthält Bestandteile anderer Urheber mit eigenen Lizenzen,
+   zum Beispiel die Sprach-Engine Piper, espeak-ng (GNU GPL v3), die
+   Stimmen, Schriften und Programmbibliotheken. Für diese gelten ihre
+   eigenen Lizenzen, siehe THIRD-PARTY-NOTICES.txt. Diese Bedingungen
+   schränken deine Rechte an diesen Bestandteilen nicht ein.
+
+5. Dienste Dritter
+   Für die KI nutzt der Companion den Dienst OpenRouter mit deinem eigenen
+   Zugangsschlüssel. Dafür gelten die Bedingungen von OpenRouter und des
+   jeweiligen Modellanbieters. Was mit deinen Daten geschieht, steht in der
+   Datenschutzerklärung: https://www.magic-camelot.com/datenschutz/#companion
+
+6. Haftung
+   Der Companion wird kostenlos und ohne Gewähr bereitgestellt. Antworten
+   der KI können falsch sein; prüfe wichtige Auskünfte (etwa zu Recht,
+   Geld oder Gesundheit) selbst. Wir haften nur bei Vorsatz und grober
+   Fahrlässigkeit sowie nach zwingenden gesetzlichen Vorschriften,
+   insbesondere bei Verletzung von Leben, Körper oder Gesundheit.
+
+7. Echtheit
+   Lade den Companion nur von der offiziellen Seite oder von
+   https://github.com/magic-camelot/companion-releases herunter.
+
+Kontakt: info@magic-camelot.de · Impressum: https://www.magic-camelot.com/impressum/
+
+
+=====================================================================
+ENGLISH
+=====================================================================
+
+1. Free use
+   You may use the Magic Camelot Companion free of charge, privately and
+   professionally, on as many computers as you like.
+
+2. Passing it on is allowed – unmodified and free of charge
+   You may pass the installer on to others, for example on a USB stick, by
+   email or on your own download page. It must stay unmodified, and you may
+   not charge for it. The safest way is to link to the official page:
+   https://www.magic-camelot.com/companion/en/
+
+3. Not allowed
+   - modifying, disassembling or re-creating the program or parts of it,
+     except where the law expressly permits it,
+   - selling or renting the program or including it in paid bundles,
+   - taking out parts and using them elsewhere, in particular graphics,
+     characters, texts, music and code,
+   - passing the program on under another name or as your own work.
+
+4. Components by other authors
+   The Companion contains components by other authors under their own
+   licences, for example the speech engine Piper, espeak-ng (GNU GPL v3),
+   the voices, fonts and software libraries. Their own licences apply, see
+   THIRD-PARTY-NOTICES.txt. These terms do not restrict your rights to
+   those components.
+
+5. Third-party services
+   For the AI, the Companion uses the OpenRouter service with your own
+   access key. The terms of OpenRouter and of the respective model provider
+   apply. What happens to your data is described in the privacy policy:
+   https://www.magic-camelot.com/en/privacy/#companion
+
+6. Liability
+   The Companion is provided free of charge and without warranty. AI answers
+   can be wrong; check important information (for example on law, money or
+   health) yourself. We are liable only for intent and gross negligence and
+   under mandatory statutory provisions, in particular for injury to life,
+   body or health.
+
+7. Authenticity
+   Only download the Companion from the official page or from
+   https://github.com/magic-camelot/companion-releases
+
+Contact: info@magic-camelot.de · Legal notice: https://www.magic-camelot.com/en/legal-notice/
